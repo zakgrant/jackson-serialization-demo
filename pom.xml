@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zak.jackson</groupId>
-    <artifactId>JacksonDeSerializationDemo</artifactId>
+    <artifactId>jackson-serialization-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
