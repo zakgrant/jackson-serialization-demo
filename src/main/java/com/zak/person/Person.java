@@ -26,12 +26,10 @@ public class Person {
         this.name = name;
     }
 
-//    @JsonSerialize(using = DateTimeSerializer.class)
     public DateTime getDob() {
         return dob;
     }
 
-//    @JsonDeserialize(using = DateTimeDeserializer.class)
     public void setDob(DateTime dob) {
         this.dob = dob;
     }
